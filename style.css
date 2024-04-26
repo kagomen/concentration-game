@@ -1,0 +1,16 @@
+@charset 'utf-8';
+
+td {
+  border: 1px solid blue;
+  border-radius: 8px;
+  width: 80px;
+  height: 120px;
+  font-size: 24px;
+  text-align: center;
+  user-select: none;
+  cursor: pointer;
+}
+
+.back {
+  background: blue;
+}
